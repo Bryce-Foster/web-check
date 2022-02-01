@@ -4,6 +4,10 @@ h1 {
     text-align: center;
 }
 
+.bg {
+    background-color: #00707a;    
+}
+
 .submitform {
     display:grid;
     text-align: center;
@@ -19,7 +23,7 @@ h1 {
     text-align: center;
 }
 
-.grid-container2 {
+.grid-container1 {
     display: grid;
     grid-template-columns: auto auto;
     text-align: center;
