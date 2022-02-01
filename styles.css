@@ -19,6 +19,12 @@ h1 {
     text-align: center;
 }
 
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+}
+
 .grid-item {
     text-align: center;
 }
