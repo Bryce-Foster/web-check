@@ -1,0 +1,24 @@
+h1 {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.submitform {
+    display:grid;
+    text-align: center;
+}
+
+.aboutus {
+    display:grid;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+
+.grid-item {
+    text-align: center;
+}
